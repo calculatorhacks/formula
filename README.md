@@ -1,4 +1,5 @@
 # formula (v0.1)
+Copyright 2020 calculatorhacks 
 
 ## About ❓
 Formula is a simple GUI program for Windows to store Formulas in your Casio Colorgraph calculator (model fx-CG50). 
