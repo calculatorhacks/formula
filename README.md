@@ -6,7 +6,7 @@ Formula is a simple GUI program for Windows to store Formulas in your Casio Colo
 ## Installation 💾
 1- Click the green 'Code' button and select 'download zip'<br>
 2- Unzip the file<br>
-3- Open the 'formula-master' folder adn then, open the 'formula-v0.1' folder<br>
+3- Open the 'formula-master' folder and then, open the 'formula-v0.1' folder<br>
 4- Double click on the 'formula.exe' file<br>
 
 WARNING: don't remove any files from the 'formula-v0.1' folder!<br>
