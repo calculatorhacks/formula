@@ -18,5 +18,5 @@ Enter the title and the content of the formula and click the 'Add' button to add
 To add the formulas to the calculator, first click 'Save' to save your formulas and then click 'Add to Calculator'. IMPORTANT: Make sure you have connected the calculator to the computer with the USB cable!
  
 
-## And, that's it! Enjoy! If you have any questions or issues, let me know in the 'Issues' section. :)
+## And, that's it! Enjoy! If you have any questions or issues, let me know in the 'Issues' section :)
 
